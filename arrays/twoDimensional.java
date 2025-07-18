@@ -1,3 +1,4 @@
+package arrays;
 import java.util.Scanner;
 public class twoDimensional {
     public static void main(String[] args){

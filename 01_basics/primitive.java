@@ -1,4 +1,3 @@
-package basics;
 public class primitive {
     public static void main(String[] args){
         byte b = 10;
